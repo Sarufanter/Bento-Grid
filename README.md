@@ -19,9 +19,13 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 
 ### Screenshot
-
+Desktop design :
 ![](./design/desktop.jpg)
+
+Tablet design :
 ![](./design/tablet.jpg)
+
+Phone design :
 ![](./design/phone.jpg)
 
 ### Built with
