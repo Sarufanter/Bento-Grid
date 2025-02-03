@@ -25,7 +25,7 @@ Desktop design :
 Tablet design :
 ![](./design/tablet.jpg)
 
-Phone design :
+Phone design :<br/>
 ![](./design/phone.jpg)
 
 ### Built with
